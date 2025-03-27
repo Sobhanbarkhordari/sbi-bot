@@ -1,0 +1,6 @@
+pyrhon-telegram-pot
+requests
+whisper-openai
+pillow
+yt-dlp
+gtts
