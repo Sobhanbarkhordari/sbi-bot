@@ -1,4 +1,4 @@
-pyrhon-telegram-pot
+python-telegram-pot
 requests
 whisper-openai
 pillow
