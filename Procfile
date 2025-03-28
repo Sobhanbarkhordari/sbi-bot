@@ -1,1 +1,1 @@
-web: python3 final_bot.py
+web: python3 bot.py
